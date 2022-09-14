@@ -29,7 +29,7 @@ void jack_bauer(void)
 
 		while (hr1 <= a)
 		{
-			mn 2 = 0;
+			mn2 = 0;
 
 			while (mn2 <= 5)
 			{
