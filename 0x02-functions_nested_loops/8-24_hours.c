@@ -5,7 +5,10 @@
  */
 void jack_bauer(void)
 {
-	int hr1;	int hr2;	int mn1;	int mn2;
+	int hr1;
+	int hr2;
+	int mn1;
+	int mn2;
 
 	int a = 9;
 
