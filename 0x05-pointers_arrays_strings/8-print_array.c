@@ -7,7 +7,7 @@
  * Return: void which ,means our answer is correct
  */
 
-void print_array(int *a, int *n)
+void print_array(int *a, int n)
 {
 	int i;
 
@@ -22,5 +22,5 @@ void print_array(int *a, int *n)
 		}
 		i++;
 	}
-	printf("\n")
+	printf("\n");
 }
