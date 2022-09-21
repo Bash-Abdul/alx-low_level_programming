@@ -2,7 +2,7 @@
 /**
  *_strcmp - Entry point
  *@s1:poniterr
- *s2: pointer
+ *@s2: pointer
  *Return: dest
  */
 
