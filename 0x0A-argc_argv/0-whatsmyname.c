@@ -1,14 +1,13 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 /**
  * main - Entry point
  * @argc: stuff
  * @argv: stuff
- *
- * Return: void
+ * Return: 0
  */
 
-int main(int argc, char *argv[])
+int main(int argc, char const *argv[])
 {
 	(void) argc;
 
