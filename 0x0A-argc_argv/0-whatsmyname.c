@@ -2,8 +2,8 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * argc: stuff
- * argv: stuff
+ * @argc: stuff
+ * @argv: stuff
  *
  * Return: void
  */
